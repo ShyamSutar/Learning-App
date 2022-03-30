@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/pdf"
+        android:title="eBooks"
+        android:icon="@drawable/ebook"/>
+
+    <item android:id="@+id/share"
+        android:title="Share App"
+        android:icon="@drawable/share"/>
+
+    <item
+        android:id="@+id/rate"
+        android:title="Rate Us"
+        android:icon="@drawable/rate"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:icon="@drawable/about"/>
+
+</menu>

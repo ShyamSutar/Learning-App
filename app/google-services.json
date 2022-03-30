@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593368574915",
+    "project_id": "learning-app-f2d63",
+    "storage_bucket": "learning-app-f2d63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593368574915:android:510186ba17ef094c236b76",
+        "android_client_info": {
+          "package_name": "gespoly.org.learningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593368574915-fbt97vhoo5tqahmh331m96911d0qp1ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt2yG-UXkdoI75iFsdjihbzB113CH6wnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593368574915-fbt97vhoo5tqahmh331m96911d0qp1ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

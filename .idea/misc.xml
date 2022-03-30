@@ -3,7 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Learning-App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/activity_android.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/activity_code.xml" value="0.2604166666666667" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/activity_code_category.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/activity_java.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/activity_javascript.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/activity_mad_u1.xml" value="0.27447916666666666" />
         <entry key="..\:/Learning-App/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/activity_php.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/activity_subject.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/activity_test.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/activity_topic.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/code_category_item_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/custom_topic_item_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/fragment_code.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/fragment_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/fragment_quiz.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/layout/header_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/menu/bottom_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Learning-App/app/src/main/res/menu/nav_drawer.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>

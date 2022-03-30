@@ -4,13 +4,50 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/icon"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LearningApp">
         <activity
+            android:name=".Units.mad_u4"
+            android:exported="false" />
+        <activity
+            android:name=".Units.mad_u3"
+            android:exported="false" />
+        <activity
+            android:name=".Units.mad_u2"
+            android:exported="false" />
+        <activity
+            android:name=".Units.mad_u1"
+            android:exported="false" />
+        <activity
+            android:name=".UI.code.codeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UI.code.CodeCategory"
+            android:exported="false" />
+        <activity
+            android:name=".chapter.five.javascript"
+            android:exported="false" />
+        <activity
+            android:name=".chapter.one.android"
+            android:exported="false" />
+        <activity
+            android:name=".chapter.two.php"
+            android:exported="false" />
+        <activity
+            android:name=".chapter.one.java"
+            android:exported="false" />
+        <activity
+            android:name=".chaptertopics.SubjectActivity"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
